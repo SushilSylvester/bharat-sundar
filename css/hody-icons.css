@@ -2,11 +2,11 @@
 
 @font-face {
   font-family: "hodyicons";
-  src:url("../fonts/hodyicons.eot");
-  src:url("../fonts/hodyicons.eot?#iefix") format("embedded-opentype"),
-    url("../fonts/hodyicons.woff") format("woff"),
-    url("../fonts/hodyicons.ttf") format("truetype"),
-    url("../fonts/hodyicons.svg#hodyicons") format("svg");
+  src:url("fonts/hodyicons.eot");
+  src:url("fonts/hodyicons.eot?#iefix") format("embedded-opentype"),
+    url("fonts/hodyicons.woff") format("woff"),
+    url("fonts/hodyicons.ttf") format("truetype"),
+    url("fonts/hodyicons.svg#hodyicons") format("svg");
   font-weight: normal;
   font-style: normal;
 
