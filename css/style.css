@@ -698,7 +698,7 @@ section.dark-bg .title > hr {
 }
 .box.outlined {
   border: 1px solid #e7e7e7;
-  background-color: transparent;
+  background-color: rgba(46, 49, 49, 0.2);
 }
 .box.grey-bg {
   background-color: #f7f7f7;
@@ -1594,7 +1594,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   z-index: 110;
 }
 #topnav .logo img {
-  max-height: 40px;
+  max-height: 50px;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
