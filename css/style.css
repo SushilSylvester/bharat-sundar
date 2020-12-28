@@ -6368,8 +6368,8 @@ form.register {
     height: 35px;
     line-height: 33px;
     min-height: 0;
-    background-color: #dca237;
-    border-color: #dca237;
+    background-color: #28292a;
+    border-color: #28292a;
     border-radius: 30px;
     color: #ffffff !important;
   }
@@ -6377,8 +6377,8 @@ form.register {
   #aside-nav .navigation-menu > li.menu-btn-item > a:hover,
   #topnav .navigation-menu > li.menu-btn-item.active > a:hover,
   #aside-nav .navigation-menu > li.menu-btn-item.active > a:hover {
-    background-color: #2e9fee;
-    border-color: #2e9fee;
+    background-color: #dca237;
+    border-color: #dca237;
     color: #fff!important;
   }
   #topnav #navigation {
