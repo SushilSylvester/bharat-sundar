@@ -955,20 +955,20 @@ section.dark-bg .progress {
   line-height: inherit;
 }
 .social-list > li.social-item-facebook > a:hover {
-  background-color: #3b5998;
-  border-color: #3b5998;
+  background-color: #4064ac;
+  border-color: #4064ac;
 }
 .social-list > li.social-item-twitter > a:hover {
-  background-color: #55acee;
-  border-color: #55acee;
+  background-color: #f24c56;
+  border-color: #f24c56;
 }
 .social-list > li.social-item-linkedin > a:hover {
   background-color: #0077b5;
   border-color: #0077b5;
 }
 .social-list > li.social-item-instagram > a:hover {
-  background-color: #3f729b;
-  border-color: #3f729b;
+  background-color: #047dc4;
+  border-color: #047dc4;
 }
 .social-list > li.social-item-dribbble > a:hover {
   background-color: #ea4c89;
@@ -983,16 +983,16 @@ section.dark-bg .progress {
   border-color: #0063dc;
 }
 .social-list > li.social-item-pinterest > a:hover {
-  background-color: #bd081c;
-  border-color: #bd081c;
+  background-color: #1cd75f;
+  border-color: #1cd75f;
 }
 .social-list > li.social-item-youtube > a:hover {
-  background-color: #cd201f;
-  border-color: #cd201f;
+  background-color: #50abf1;
+  border-color: #50abf1;
 }
 .social-list > li.social-item-tumblr > a:hover {
-  background-color: #35465c;
-  border-color: #35465c;
+  background-color: #fa243c;
+  border-color: #fa243c;
 }
 .social-list.style-2 > li > a {
   width: 75px;
