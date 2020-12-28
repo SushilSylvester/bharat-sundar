@@ -1519,7 +1519,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 }
 @media (min-width: 992px) {
   #topnav.stick .navigation-menu > li > a {
-    padding-top: 20px;
+    padding-top: 26px;
     padding-bottom: 20px;
   }
 }
@@ -1542,12 +1542,12 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   background-color: #222225;
 }
 #topnav.stick.dark-menu {
-  background-color: #000000;
+  background-color: #ffffff;
   box-shadow: 0 4px 10px -7px rgba(0, 0, 0, 0.8);
 }
 @media (min-width: 992px) {
   #topnav.stick.dark-menu .navigation-menu > li > a {
-    color: #fff;
+    color: #000000;
   }
   #topnav.stick.dark-menu .navigation-menu > li > a:hover {
     color: #dca237;
@@ -6366,7 +6366,7 @@ form.register {
     background-color: #1a1a1a;
     border-color: #1a1a1a;
     border-radius: 30px;
-    color: #fff;
+    color: #ffffff !important;
   }
   #topnav .navigation-menu > li.menu-btn-item > a:hover,
   #aside-nav .navigation-menu > li.menu-btn-item > a:hover,
