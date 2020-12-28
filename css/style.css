@@ -1493,7 +1493,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   left: 0;
   top: 0;
   z-index: 99999;
-  background-color: white;
+  background-color: rgba(255,255,255,0.8);
   border: 0;
   min-height: 62px;
   -webkit-transition: all .4s ease;
@@ -1595,7 +1595,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   z-index: 110;
 }
 #topnav .logo img {
-  max-height: 50px;
+  max-height: 60px;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
 }
