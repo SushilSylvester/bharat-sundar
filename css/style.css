@@ -59,7 +59,7 @@ body.top-padding {
 }
 ::selection {
   background-color: #222225;
-  color: #fff;
+  color: #000;
 }
 img,
 video {
@@ -6874,7 +6874,7 @@ form.register {
     color: #fff;
   }
   #topnav.dark-menu .menu-toggle .toggle-inner {
-    background-color: #fff;
+    background-color: #000;
   }
   .cart-open.opened .shopping-cart {
     visibility: visible;
