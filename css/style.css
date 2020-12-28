@@ -2211,7 +2211,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   height: 100%;
   width: 100%;
   position: relative;
-  background-color: rgba(34, 34, 37, 0.45);
+  /*background-color: rgba(34, 34, 37, 0.45);*/
   z-index: 200;
 }
 .slide-wrap.extra-dark {
