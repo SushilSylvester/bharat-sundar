@@ -59,7 +59,7 @@ body.top-padding {
 img,
 video {
   max-width: 100%;
-  height: 35%;
+  height: auto;
   margin-left: 5px;
 }
 h1,
