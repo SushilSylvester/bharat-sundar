@@ -1839,7 +1839,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   width: 20px;
 }
 .toggle-inner {
-  background-color: #fff;
+  background-color: red;
   border-radius: 4px;
   display: block;
   height: 2px;
