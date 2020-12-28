@@ -1512,7 +1512,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   }
 }
 #topnav.stick .navigation-menu > li > a:hover {
-  color: #1b96ed;
+  color: #dd971b;
   background-color: transparent;
 }
 @media (min-width: 992px) {
@@ -1522,7 +1522,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   }
 }
 #topnav.stick .navigation-menu > li.active > a {
-  color: #1b96ed;
+  color: #dd971b;
 }
 #topnav.stick .menu-extras {
   border-color: rgba(0, 0, 0, 0.08);
@@ -2305,7 +2305,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   font-size: 120px;
 }
 .slide-content h5 {
-  margin: 25px 0;
+  margin: 0px 0;
   font-size: 18px;
   font-family: 'Raleway', sans-serif;
 }
