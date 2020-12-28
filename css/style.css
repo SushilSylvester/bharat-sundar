@@ -1659,7 +1659,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 }
 @media (min-width: 992px) {
   #topnav .navigation-menu > li > a {
-    padding-top: 26px;
+    padding-top: 28px;
     padding-bottom: 20px;
     min-height: 62px;
   }
@@ -6363,7 +6363,7 @@ form.register {
   #topnav .navigation-menu > li.menu-btn-item.active > a,
   #aside-nav .navigation-menu > li.menu-btn-item.active > a {
     display: inline-block;
-    padding: 0 16px;
+    padding: 2px 16px;
     font-size: 11px;
     height: 35px;
     line-height: 33px;
