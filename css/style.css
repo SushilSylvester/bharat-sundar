@@ -1540,7 +1540,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   background-color: #222225;
 }
 #topnav.stick.dark-menu {
-  background-color: #222225;
+  background-color: #000000;
   box-shadow: 0 4px 10px -7px rgba(0, 0, 0, 0.8);
 }
 @media (min-width: 992px) {
@@ -6361,8 +6361,8 @@ form.register {
     height: 35px;
     line-height: 33px;
     min-height: 0;
-    background-color: #000000;
-    border-color: #000000;
+    background-color: #1a1a1a;
+    border-color: #1a1a1a;
     border-radius: 30px;
     color: #fff;
   }
