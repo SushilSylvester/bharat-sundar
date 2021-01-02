@@ -478,8 +478,8 @@
         animation: dataOptions.animation === 'slide' ? 'slide' : 'fade',
         controlNav: dataOptions.controlNav === true ? true : false,
         directionNav: dataOptions.directionNav === true ? true : false,
-        prevText: '<i class="hc-arrow-left"></i>',
-        nextText: '<i class="hc-arrow-right"></i>',
+        prevText: '<img src="images/left-arrow.png">',
+        nextText: '<img src="images/right-arrow.png">',
       };
 
       options.start = function () {
@@ -532,7 +532,8 @@
         center: dataOptions.center || false,
         dots: dataOptions.dots || false,
         nav: dataOptions.nav || false,
-        navText: ['<i class="hc-angle-left"></i>', '<i class="hc-angle-right"></i>'],
+        //navText: ['<i class="hc-angle-left"></i>', '<i class="hc-angle-right"></i>'],
+        navText: ['<img src="images/left-arrow.png">', '<img src="images/right-arrow.png">'],
         margin: dataOptions.margin || 0,
         autoplay: dataOptions.autoplay || true,
         responsiveClass: true,
