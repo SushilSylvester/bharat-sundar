@@ -156,8 +156,8 @@ iframe {
   max-width: 100%;
 }
 section {
- /* padding-top: 120px;
-  padding-bottom: 120px;*/
+  padding-top: 120px;
+  padding-bottom: 120px;
   position: relative;
   z-index: 10;
   background-color: #fff;
