@@ -37,6 +37,14 @@
   01
   Common Styles
 */
+
+.image-gallery{
+  padding-top: 100px;
+  padding-bottom: 100px;
+  position: relative;
+  z-index: 10;
+
+}
 @media only screen and (max-width:600px){
   .dylan-menu{
     margin-left: 0px !important;
@@ -3903,6 +3911,7 @@ textarea.wpcf7-form-control {
   font-size: 90%;
 }
 .dylan-menu > li .dylan-menu-text {
+  font-size: 20px;
   line-height: inherit;
   margin-top: 10px;
   max-width: 90%;
