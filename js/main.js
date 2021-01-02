@@ -534,7 +534,7 @@
         nav: dataOptions.nav || false,
         navText: ['<i class="hc-angle-left"></i>', '<i class="hc-angle-right"></i>'],
         margin: dataOptions.margin || 0,
-        autoplay: dataOptions.autoplay || false,
+        autoplay: dataOptions.autoplay || true,
         responsiveClass: true,
         responsive:{
           0:{
@@ -554,7 +554,7 @@
       }
 
       if (options.autoplay) {
-        options.autoplayTimeout = dataOptions.autoplayTimeout || 2000;
+        options.autoplayTimeout = dataOptions.autoplayTimeout || 100;
         options.autoplayHoverPause = true;
       }
 
