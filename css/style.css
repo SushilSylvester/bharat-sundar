@@ -38,6 +38,10 @@
   Common Styles
 */
 
+.flexslider .slides img{
+  height: 600px !important;
+}
+
 
 @media only screen and (max-width:600px){
   .dylan-menu{
@@ -67,7 +71,6 @@ img,
 video {
   max-width: 100%;
   height: auto;
-  margin-left: 5px;
 }
 h1,
 h2,
