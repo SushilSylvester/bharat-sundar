@@ -37,6 +37,10 @@
   01
   Common Styles
 */
+
+.rightarrow{
+  background-image: url(images/right.png);
+}
 .contain{
   position: relative;
   text-align: center;
@@ -3552,9 +3556,9 @@ section.dark-bg .timeline .timeline-content:before {
 }
 .gallery-control {
   position: absolute;
-  width: 50px;
-  height: 50px;
-  line-height: 50px;
+  width: 20px;
+  height: 20px;
+  line-height: 20px;
   bottom: -50px;
   color: #fff;
   font-size: 20px;
@@ -3571,10 +3575,12 @@ section.dark-bg .timeline .timeline-content:before {
   line-height: inherit;
 }
 .gallery-control.gallery-prev {
+  display: none;
   left: 0;
   text-align: left;
 }
 .gallery-control.gallery-next {
+  display: none;
   right: 0;
   text-align: right;
 }

@@ -645,7 +645,6 @@
   content: "\e008";
 }
 .hc-angle-right:before {
-<background-image: url(images/right.png);
 }
 .hc-angle-left:before {
  

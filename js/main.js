@@ -584,9 +584,9 @@
       template += '<div class="v-center">';
       template += '<div class="gallery-image">';
       template += '<a href="#" id="gallery-close"><i class="hc-close"></i></a>';
-      template += '<a href="#" class="gallery-control gallery-prev"><img src="images/left.png"></a>';
+      template += '<a href="#" class="gallery-control gallery-prev"></a>';
       template += '<img src="'+imagesArray[imagesArray.indexOf(image)]+'" alt="">';
-      template += '<a href="#" class="gallery-control gallery-next"><img src="images/right.png"></a>';
+      template += '<a href="#" class="gallery-control gallery-next"></a>';
       template += '</div>';
       template += '</div>';
       template += '</div>';
