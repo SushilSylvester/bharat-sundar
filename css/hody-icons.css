@@ -645,10 +645,10 @@
   content: "\e008";
 }
 .hc-angle-right:before {
-  content: "\e00a";
+
 }
 .hc-angle-left:before {
-  content: "\e00c";
+ 
 }
 .hc-angle-down:before {
   content: "\e00e";

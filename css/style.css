@@ -3403,7 +3403,7 @@ section.dark-bg .timeline .timeline-content:before {
   margin-bottom: 15px;
 }
 .photo-gallery > li {
-  width: 25%;
+  width: 33%;
   float: left;
   position: relative;
 }
