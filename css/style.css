@@ -49,9 +49,12 @@
 
 .bottom-left{
   position: absolute;
-  bottom: 8px;
-  left: 16px;
-  font-size: 8px;
+  /*bottom: 8px;
+  left: 16px;*/
+  font-size: 10px;
+  color: #ffffff;
+  background-color: rgba(0,0,0,0.5);
+  margin-top: 8px;
 }
 
 a.imgcou:hover{

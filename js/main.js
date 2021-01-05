@@ -587,7 +587,7 @@
       template += '<a href="#" class="gallery-control gallery-prev"></a>';
       template += '<img src="'+imagesArray[imagesArray.indexOf(image)]+'" alt="">';
       template += '<a href="#" class="gallery-control gallery-next"></a>';
-      template += '</div>';
+      template += '<div class="bottom-left">Image Courtesy: Ramanathan Iyer</div>';
       template += '</div>';
       template += '</div>';
       template += '</div>';
