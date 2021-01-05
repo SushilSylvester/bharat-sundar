@@ -51,6 +51,11 @@
   position: absolute;
   bottom: 8px;
   left: 16px;
+  font-size: 8px;
+}
+
+a.imgcou:hover{
+  text-decoration: none;
 }
 .flexslider .slides img{
   height: 50% !important;
@@ -101,11 +106,11 @@ a {
   color: #dca237;
 }
 a:hover {
-  color: #4aacf1;
+  color: #000000;
   text-decoration: none;
 }
 a:focus {
-  color: #107ac5;
+  color: #000000;
   text-decoration: none;
 }
 a.small-link {
