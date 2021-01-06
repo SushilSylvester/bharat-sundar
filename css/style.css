@@ -65,9 +65,9 @@
 a.imgcou:hover{
   text-decoration: none;
 }
-.flexslider .slides img{
+/*.flexslider .slides img{
   height: 50% !important;
-}
+}*/
 
 
 @media only screen and (max-width:600px){
