@@ -37,6 +37,11 @@
   01
   Common Styles
 */
+@media only screen and (max-width: 400px) {
+  .text-center p {
+   text-align: justify;
+  }
+}
 
 .rightarrow{
   background-image: url(images/right.png);
