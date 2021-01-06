@@ -2042,7 +2042,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 #home-slider {
   border: 0;
   margin: 0;
-  height: 100vh;
+  height: 800px;
   background-color: #222225;
 }
 #home-slider .slides {
