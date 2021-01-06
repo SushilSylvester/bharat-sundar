@@ -2049,7 +2049,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   height: 100%;
 }
 #home-slider .slides img {
-  width: auto;
+  width: 100%;
 }
 #home-slider .slides > li {
   height: 100%;
