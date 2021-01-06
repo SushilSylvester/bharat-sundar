@@ -2079,14 +2079,14 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   /*-webkit-transition: all .3s ease;
   transition: all .3s ease;*/
 }
-.flexslider .flex-direction-nav > li {
+/*.flexslider .flex-direction-nav > li {
   position: absolute;
   top: 50%;
   margin-top: -20px;
   z-index: 2000;
   -webkit-transition: all .3s ease;
   transition: all .3s ease;
-}
+}*/
 .flexslider .flex-direction-nav > li.flex-nav-prev {
   left: 25px;
 }
