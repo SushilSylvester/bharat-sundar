@@ -2076,8 +2076,8 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 .flexslider .flex-control-paging > li > a {
   width: 8px;
   height: 8px;
-  -webkit-transition: all .3s ease;
-  transition: all .3s ease;
+  /*-webkit-transition: all .3s ease;
+  transition: all .3s ease;*/
 }
 .flexslider .flex-direction-nav > li {
   position: absolute;
