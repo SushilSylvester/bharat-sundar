@@ -2042,7 +2042,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 #home-slider {
   border: 0;
   margin: 0;
-  height: 800px;
+  height: 100vh;
   background-color: #222225;
 }
 #home-slider .slides {
@@ -2273,8 +2273,8 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 }
 .slide-wrap.gradient:after {
   content: "";
-  background: -webkit-linear-gradient(#ff6471, #dca237), top;
-  background: linear-gradient(#ff6471, #dca237), top;
+  /*background: -webkit-linear-gradient(#ff6471, #dca237), top;
+  background: linear-gradient(#ff6471, #dca237), top;*/
   position: absolute;
   left: 0;
   right: 0;
@@ -2297,7 +2297,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 .slide-content.text-right {
   text-align: right;
 }
-.slide-content .container > * {
+/*.slide-content .container > * {
   opacity: 0;
   -webkit-transform: translateY(20px);
   transform: translateY(20px);
@@ -2308,7 +2308,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   transition: transform .4s ease;
   transition: transform .4s ease, -webkit-transform .4s ease;
   transition: transform 0.4s ease, -webkit-transform 0.4s ease;
-}
+}*/
 .slide-content h1 {
   font-size: 100px;
   font-weight: 700;
