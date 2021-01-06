@@ -2107,8 +2107,8 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   height: 30px;
   line-height: 30px;
   text-align: center;
-  -webkit-transition: opacity .3s ease;
-  transition: opacity .3s ease;
+  /*-webkit-transition: opacity .3s ease;
+  transition: opacity .3s ease;*/
   font-size: 18px;
 }
 .flexslider .flex-direction-nav > li > a:hover,
