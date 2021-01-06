@@ -2221,7 +2221,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
   height: 100%;
   max-width: none;
 }
-#home-slider.animated .slide-image {
+/*#home-slider.animated .slide-image {
   top: -10%;
   left: -10%;
   width: 120%;
@@ -2232,7 +2232,7 @@ section.dark-bg .minimal-tabs > li.active > a:hover {
 #home-slider.animated.ibg-exiting .slide-image {
   -webkit-transition: all 0.5s ease-out;
   transition: all 0.5s ease-out;
-}
+}*/
 .slide-image {
   position: fixed;
   top: 0;
